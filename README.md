@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Gabriela Gimenez Dutra</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+I am a **Systems Analysis and Development student** passionate about technology and software creation. I'm currently focused on building a solid foundation in programming and exploring the world of development.
+
+### 🛠 Tech Stack & Tools
+- 🔭 I’m currently working on **Git**
+- 🌱 I’m currently learning **C, Git, CMD**
+- 🤝 I’m looking for help with **Git**
+
+
+
+### 🌱 Current Goals
+* 🎓 Completing my Technical Degree in Systems Analysis.
+* 🚀 Building my first web applications.
+* 🤝 Connecting with the tech community.
+
+### 📫 How to reach me
+* Email: **gabssdutr@gmail.com**
+
+* - 👨‍💻 All of my projects are available at [https://gabrieladutra70x7](https://gabrieladutra70x7)
+
+
+---
+"The best way to predict the future is to create it."
+
 - 🔭 I’m currently working on **Git**
 
 - 🌱 I’m currently learning **C, Git, CMD**
@@ -9,9 +32,8 @@
 
 - 👨‍💻 All of my projects are available at [https://gabrieladutra70x7](https://gabrieladutra70x7)
 
-- 💬 Ask me about **C**
 
-- 📫 How to reach me **gabssdutr@gmail.com**
+
 
 - ⚡ Fun fact **I think i am nice :)**
 
@@ -26,14 +48,4 @@
 <!--
 **gabrieladutra70x7/gabrieladutra70x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
