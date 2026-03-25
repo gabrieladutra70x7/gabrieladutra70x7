@@ -20,22 +20,11 @@ I am a **Systems Analysis and Development student** passionate about technology 
 
 * - 👨‍💻 All of my projects are available at [https://gabrieladutra70x7](https://gabrieladutra70x7)
 
-
+- ⚡ Fun fact **I think i am nice :)**
 ---
 "The best way to predict the future is to create it."
 
-- 🔭 I’m currently working on **Git**
 
-- 🌱 I’m currently learning **C, Git, CMD**
-
-- 🤝 I’m looking for help with **Git**
-
-- 👨‍💻 All of my projects are available at [https://gabrieladutra70x7](https://gabrieladutra70x7)
-
-
-
-
-- ⚡ Fun fact **I think i am nice :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
